@@ -27,7 +27,7 @@
     <p>
       <button @click="increment">+</button>
       <button @click="decrement">-</button>
-    </p>
+    </p>test
 
     <a href="/pages/index/index" class="home">去往首页</a> -->
   </div>
